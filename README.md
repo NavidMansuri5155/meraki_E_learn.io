@@ -19,3 +19,4 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
+![](https://image.shutterstock.com/image-vector/react-js-concept-modern-big-260nw-1818087761.jpg)
