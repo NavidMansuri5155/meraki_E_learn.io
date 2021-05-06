@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [MERAKI/SARAL__API](https://merakilearn.org/api/courses).
 
+![](https://cdn.slidesharecdn.com/ss_thumbnails/volunteeringatnavgurukul-170905053247-thumbnail-4.jpg?cb=1504591275)
 ## Getting Started
 
 
